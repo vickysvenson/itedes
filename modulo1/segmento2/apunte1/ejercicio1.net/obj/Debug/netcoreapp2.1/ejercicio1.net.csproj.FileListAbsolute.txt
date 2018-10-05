@@ -1,0 +1,11 @@
+/home/alumno/itedes/modulo1/segmento2/apunte1/ejercicio1.net/bin/Debug/netcoreapp2.1/ejercicio1.net.deps.json
+/home/alumno/itedes/modulo1/segmento2/apunte1/ejercicio1.net/bin/Debug/netcoreapp2.1/ejercicio1.net.runtimeconfig.json
+/home/alumno/itedes/modulo1/segmento2/apunte1/ejercicio1.net/bin/Debug/netcoreapp2.1/ejercicio1.net.runtimeconfig.dev.json
+/home/alumno/itedes/modulo1/segmento2/apunte1/ejercicio1.net/bin/Debug/netcoreapp2.1/ejercicio1.net.dll
+/home/alumno/itedes/modulo1/segmento2/apunte1/ejercicio1.net/bin/Debug/netcoreapp2.1/ejercicio1.net.pdb
+/home/alumno/itedes/modulo1/segmento2/apunte1/ejercicio1.net/obj/Debug/netcoreapp2.1/ejercicio1.net.csprojAssemblyReference.cache
+/home/alumno/itedes/modulo1/segmento2/apunte1/ejercicio1.net/obj/Debug/netcoreapp2.1/ejercicio1.net.csproj.CoreCompileInputs.cache
+/home/alumno/itedes/modulo1/segmento2/apunte1/ejercicio1.net/obj/Debug/netcoreapp2.1/ejercicio1.net.AssemblyInfoInputs.cache
+/home/alumno/itedes/modulo1/segmento2/apunte1/ejercicio1.net/obj/Debug/netcoreapp2.1/ejercicio1.net.AssemblyInfo.cs
+/home/alumno/itedes/modulo1/segmento2/apunte1/ejercicio1.net/obj/Debug/netcoreapp2.1/ejercicio1.net.dll
+/home/alumno/itedes/modulo1/segmento2/apunte1/ejercicio1.net/obj/Debug/netcoreapp2.1/ejercicio1.net.pdb
