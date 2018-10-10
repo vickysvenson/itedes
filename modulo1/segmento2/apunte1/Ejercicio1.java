@@ -7,7 +7,7 @@ public class Ejercicio1 {
 		System.out.print("ingrese barrio: ");
 		String barrio = teclado.nextLine();
 		   
-		System.out.print("ingrese direccion: ");
+		System.out.print("ingrese direccion de la comisaria mas cercana : ");
 		String direccion = teclado.nextLine();
 
 		System.out.print("ingrese entrecalle1: ");

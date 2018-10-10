@@ -1,0 +1,11 @@
+/home/alumno/itedes/modulo1/segmento3/edad.net/obj/Debug/netcoreapp2.1/edad.net.csprojAssemblyReference.cache
+/home/alumno/itedes/modulo1/segmento3/edad.net/obj/Debug/netcoreapp2.1/edad.net.csproj.CoreCompileInputs.cache
+/home/alumno/itedes/modulo1/segmento3/edad.net/obj/Debug/netcoreapp2.1/edad.net.AssemblyInfoInputs.cache
+/home/alumno/itedes/modulo1/segmento3/edad.net/obj/Debug/netcoreapp2.1/edad.net.AssemblyInfo.cs
+/home/alumno/itedes/modulo1/segmento3/edad.net/bin/Debug/netcoreapp2.1/edad.net.deps.json
+/home/alumno/itedes/modulo1/segmento3/edad.net/bin/Debug/netcoreapp2.1/edad.net.runtimeconfig.json
+/home/alumno/itedes/modulo1/segmento3/edad.net/bin/Debug/netcoreapp2.1/edad.net.runtimeconfig.dev.json
+/home/alumno/itedes/modulo1/segmento3/edad.net/bin/Debug/netcoreapp2.1/edad.net.dll
+/home/alumno/itedes/modulo1/segmento3/edad.net/bin/Debug/netcoreapp2.1/edad.net.pdb
+/home/alumno/itedes/modulo1/segmento3/edad.net/obj/Debug/netcoreapp2.1/edad.net.dll
+/home/alumno/itedes/modulo1/segmento3/edad.net/obj/Debug/netcoreapp2.1/edad.net.pdb
