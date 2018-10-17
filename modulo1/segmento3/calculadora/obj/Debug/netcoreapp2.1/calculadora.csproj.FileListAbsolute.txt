@@ -1,0 +1,11 @@
+/home/alumno/itedes/modulo1/segmento3/calculadora/bin/Debug/netcoreapp2.1/calculadora.deps.json
+/home/alumno/itedes/modulo1/segmento3/calculadora/bin/Debug/netcoreapp2.1/calculadora.runtimeconfig.json
+/home/alumno/itedes/modulo1/segmento3/calculadora/bin/Debug/netcoreapp2.1/calculadora.runtimeconfig.dev.json
+/home/alumno/itedes/modulo1/segmento3/calculadora/bin/Debug/netcoreapp2.1/calculadora.dll
+/home/alumno/itedes/modulo1/segmento3/calculadora/bin/Debug/netcoreapp2.1/calculadora.pdb
+/home/alumno/itedes/modulo1/segmento3/calculadora/obj/Debug/netcoreapp2.1/calculadora.csprojAssemblyReference.cache
+/home/alumno/itedes/modulo1/segmento3/calculadora/obj/Debug/netcoreapp2.1/calculadora.csproj.CoreCompileInputs.cache
+/home/alumno/itedes/modulo1/segmento3/calculadora/obj/Debug/netcoreapp2.1/calculadora.AssemblyInfoInputs.cache
+/home/alumno/itedes/modulo1/segmento3/calculadora/obj/Debug/netcoreapp2.1/calculadora.AssemblyInfo.cs
+/home/alumno/itedes/modulo1/segmento3/calculadora/obj/Debug/netcoreapp2.1/calculadora.dll
+/home/alumno/itedes/modulo1/segmento3/calculadora/obj/Debug/netcoreapp2.1/calculadora.pdb
