@@ -1,0 +1,11 @@
+/home/alumno/itedes/modulo1/segmento2/exponenciar.net/obj/Debug/netcoreapp2.1/exponenciar.net.csprojAssemblyReference.cache
+/home/alumno/itedes/modulo1/segmento2/exponenciar.net/obj/Debug/netcoreapp2.1/exponenciar.net.csproj.CoreCompileInputs.cache
+/home/alumno/itedes/modulo1/segmento2/exponenciar.net/obj/Debug/netcoreapp2.1/exponenciar.net.AssemblyInfoInputs.cache
+/home/alumno/itedes/modulo1/segmento2/exponenciar.net/obj/Debug/netcoreapp2.1/exponenciar.net.AssemblyInfo.cs
+/home/alumno/itedes/modulo1/segmento2/exponenciar.net/bin/Debug/netcoreapp2.1/exponenciar.net.deps.json
+/home/alumno/itedes/modulo1/segmento2/exponenciar.net/bin/Debug/netcoreapp2.1/exponenciar.net.runtimeconfig.json
+/home/alumno/itedes/modulo1/segmento2/exponenciar.net/bin/Debug/netcoreapp2.1/exponenciar.net.runtimeconfig.dev.json
+/home/alumno/itedes/modulo1/segmento2/exponenciar.net/bin/Debug/netcoreapp2.1/exponenciar.net.dll
+/home/alumno/itedes/modulo1/segmento2/exponenciar.net/bin/Debug/netcoreapp2.1/exponenciar.net.pdb
+/home/alumno/itedes/modulo1/segmento2/exponenciar.net/obj/Debug/netcoreapp2.1/exponenciar.net.dll
+/home/alumno/itedes/modulo1/segmento2/exponenciar.net/obj/Debug/netcoreapp2.1/exponenciar.net.pdb
